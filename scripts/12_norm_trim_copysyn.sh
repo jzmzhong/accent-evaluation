@@ -1,0 +1,1 @@
+python norm_trim.py --norm-level 1 --sil 100 --sil-db -50 --in-dir ../copysyn_hifiganv1 --out-dir ../copysyn_hifiganv1_norm_trim

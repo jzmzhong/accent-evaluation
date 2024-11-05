@@ -1,0 +1,1 @@
+python norm_trim.py --norm-level 1 --sil 100 --sil-db -60 --in-dir ../xtts_22.05k --out-dir ../xtts_22.05k_norm_trim

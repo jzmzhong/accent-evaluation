@@ -1,0 +1,1 @@
+place ```inference.py``` under the coqui-TTS repo folder before ```sh 21_inference_xtts2.sh```
