@@ -1,0 +1,2 @@
+python loudness_addsil.py --volume 1.4 --sil 0 --in-dir ../vallex_24k --out-dir ../vallex_24k_vol1.4
+python loudness_addsil.py --volume 1.4 --sil 0 --in-dir ../vallex_22.05k --out-dir ../vallex_22.05k_vol1.4
