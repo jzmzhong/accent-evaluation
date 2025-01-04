@@ -50,6 +50,11 @@ I will add more accents/processed data as the experiments develop. I recommend s
 | p288 | 22 | F | Irish | Dublin ||
 | p295 | 23 | F | Irish | Dublin ||
 | p340 | 18 | F | Irish | Dublin ||
+| p225 | 23 | F | English | Southern England ||
+| p228 | 22 | F | English | Southern England ||
+| p229 | 23 | F | English | Southern England ||
+| p231 | 23 | F | English | Southern England ||
+| p232 | 23 | M | English | Southern England ||
 
 
 ## Data Issues
@@ -62,6 +67,9 @@ I will add more accents/processed data as the experiments develop. I recommend s
 - p295/p295_023_mic1.flac
 - p295/p295_024_mic1.flac
 - p340/p340_023_mic1.flac
+- p225/p225_015_mic1.flac
+- p228/p228_017_mic1.flac
+- p231/p231_022_mic1.flac
 
 2. Some recordings of the rainbow passage (the 001 to 024 utterances of each speaker) are uttered slightly differently as below.
 
@@ -73,6 +81,7 @@ I will add more accents/processed data as the experiments develop. I recommend s
 | gt_trans/Dublin/p245/p245_016.txt | *(The)* Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. | The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
 | gt_trans/Edinburgh/p252/p252_021.txt | The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored *bands* increases as the size of the drops increases. | The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
 | gt_trans/Edinburgh/p252/p252_022.txt | The actual primary rainbow observed is said to be the effect of super-*position* of a number of bows. | The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+| gt_trans/SouthernEngland/p231/p231_016.txt | The Norsemen considered the rainbow as a bridge over which the gods passed from *the* earth to their home in the sky. | The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
 
 *italic* words are the parts misread during recording. *(xxx)* denotes the missing part during recording.
 
