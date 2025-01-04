@@ -33,11 +33,18 @@ DATA_ROOT = "/work/tc062/tc062/jzmzhong/models/accent_evaluation"
 # }
 
 ACC = "SouthernEngland"
+# TEST_TXT2SPK = {
+#    "p225": ["p225"],
+#    "p228": ["p228"],
+#    "p229": ["p229"],
+#    "p231": ["p231"],
+# }
 TEST_TXT2SPK = {
-   "p225": ["p225"],
-   "p228": ["p228"],
-   "p229": ["p229"],
-   "p231": ["p231"],
+   "p232": ["p232"],
+   "p240": ["p240"],
+   "p257": ["p257"],
+   "p258": ["p258"],
+   "p268": ["p268"],
 }
 
 for TXT, SPKS in TEST_TXT2SPK.items():

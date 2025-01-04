@@ -70,6 +70,8 @@ I will add more accents/processed data as the experiments develop. I recommend s
 - p225/p225_015_mic1.flac
 - p228/p228_017_mic1.flac
 - p231/p231_022_mic1.flac
+- p268/p268_008_mic1.flac
+- p268/p268_023_mic1.flac
 
 2. Some recordings of the rainbow passage (the 001 to 024 utterances of each speaker) are uttered slightly differently as below.
 
@@ -82,6 +84,7 @@ I will add more accents/processed data as the experiments develop. I recommend s
 | gt_trans/Edinburgh/p252/p252_021.txt | The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored *bands* increases as the size of the drops increases. | The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
 | gt_trans/Edinburgh/p252/p252_022.txt | The actual primary rainbow observed is said to be the effect of super-*position* of a number of bows. | The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
 | gt_trans/SouthernEngland/p231/p231_016.txt | The Norsemen considered the rainbow as a bridge over which the gods passed from *the* earth to their home in the sky. | The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+｜ gt_trans/SouthernEngland/p240/p240_018.txt ｜ Aristotle thought *(that)* the rainbow was caused by reflection of the sun's rays by the rain. ｜ Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
 
 *italic* words are the parts misread during recording. *(xxx)* denotes the missing part during recording.
 
