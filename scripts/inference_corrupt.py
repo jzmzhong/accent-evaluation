@@ -6,8 +6,12 @@ import soundfile as sf
 
 # STEPS = "10"
 # STEPS = "50"
+# STEPS = "60"
+# STEPS = "70"
+# STEPS = "80"
+STEPS = "90"
 # STEPS = "100"
-STEPS = "150"
+# STEPS = "150"
 
 # Device configuration
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
