@@ -20,7 +20,8 @@ SRC_DIR="/work/tc062/tc062/jzmzhong/data/vctk_v0.92/wav48_silence_trimmed"
 # done
 TAR_DIR="../gt_48k/SouthernEngland"
 # for SPK in p225 p228 p229 p231 p232
-for SPK in p240 p257 p258 p268
+# for SPK in p240 p257 p258 p268
+for SPK in p226
 do
     mkdir -p $TAR_DIR/$SPK
     for n in $(seq -f "%03g" 1 24)
@@ -51,7 +52,8 @@ SRC_DIR="/work/tc062/tc062/jzmzhong/data/vctk_v0.92/txt"
 # done
 TAR_DIR="../gt_trans/SouthernEngland"
 # for SPK in p225 p228 p229 p231 p232
-for SPK in p240 p257 p258 p268
+# for SPK in p240 p257 p258 p268
+for SPK in p226
 do
     mkdir -p $TAR_DIR/$SPK
     for n in $(seq -f "%03g" 1 24)

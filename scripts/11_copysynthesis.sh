@@ -26,7 +26,8 @@ WAV_DIR="/work/tc062/tc062/jzmzhong/models/accent_evaluation"
 
 ACC="SouthernEngland"
 # for SPK in p225 p228 p229 p231 p232;
-for SPK in p240 p257 p258 p268;
+# for SPK in p240 p257 p258 p268;
+for SPK in p226;
 do
     mkdir -p ${WAV_DIR}/copysyn_hifiganv1/${ACC}/${SPK}
     python inference.py \

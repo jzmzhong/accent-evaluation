@@ -15,14 +15,14 @@ tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2", gpu=True)
 # generate speech by cloning a voice using default settings
 DATA_ROOT = "/work/tc062/tc062/jzmzhong/models/accent_evaluation"
 
-# ACC = "Edinburgh"
-# TEST_TXT2SPK = {
-#    "p252": ["p252"],
-#    "p272": ["p272"],
-#    "p281": ["p281"],
-#    "p285": ["p285"],
-#    "p262": ["p262"],
-# }
+ACC = "Edinburgh"
+TEST_TXT2SPK = {
+   "p252": ["p252"],
+   "p272": ["p272"],
+   "p281": ["p281"],
+   "p285": ["p285"],
+   "p262": ["p262"],
+}
 
 # ACC = "Dublin"
 # TEST_TXT2SPK = {
@@ -32,20 +32,19 @@ DATA_ROOT = "/work/tc062/tc062/jzmzhong/models/accent_evaluation"
 #    "p245": ["p245"],
 # }
 
-ACC = "SouthernEngland"
+# ACC = "SouthernEngland"
 # TEST_TXT2SPK = {
 #    "p225": ["p225"],
+#    "p226": ["p226"],
 #    "p228": ["p228"],
 #    "p229": ["p229"],
 #    "p231": ["p231"],
+#    "p232": ["p232"],
+#    "p240": ["p240"],
+#    "p257": ["p257"],
+#    "p258": ["p258"],
+#    "p268": ["p268"],
 # }
-TEST_TXT2SPK = {
-   "p232": ["p232"],
-   "p240": ["p240"],
-   "p257": ["p257"],
-   "p258": ["p258"],
-   "p268": ["p268"],
-}
 
 for TXT, SPKS in TEST_TXT2SPK.items():
     TEST_TXT_DIR = os.path.join(DATA_ROOT, "gt_trans", ACC, TXT)

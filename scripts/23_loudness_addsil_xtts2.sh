@@ -1,8 +1,16 @@
-# python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k --out-dir ../xtts_22.05k_vol0.4_100ms
-# python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt50k --out-dir ../xtts_22.05k_corrupt50k_vol0.4_100ms
-# python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt100k --out-dir ../xtts_22.05k_corrupt100k_vol0.4_100ms
-# python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt150k --out-dir ../xtts_22.05k_corrupt150k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k --out-dir ../xtts_22.05k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt10k --out-dir ../xtts_22.05k_corrupt10k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt20k --out-dir ../xtts_22.05k_corrupt20k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt30k --out-dir ../xtts_22.05k_corrupt30k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt40k --out-dir ../xtts_22.05k_corrupt40k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt50k --out-dir ../xtts_22.05k_corrupt50k_vol0.4_100ms
 python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt60k --out-dir ../xtts_22.05k_corrupt60k_vol0.4_100ms
 python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt70k --out-dir ../xtts_22.05k_corrupt70k_vol0.4_100ms
 python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt80k --out-dir ../xtts_22.05k_corrupt80k_vol0.4_100ms
 python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt90k --out-dir ../xtts_22.05k_corrupt90k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt100k --out-dir ../xtts_22.05k_corrupt100k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt110k --out-dir ../xtts_22.05k_corrupt110k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt120k --out-dir ../xtts_22.05k_corrupt120k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt130k --out-dir ../xtts_22.05k_corrupt130k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt140k --out-dir ../xtts_22.05k_corrupt140k_vol0.4_100ms
+python loudness_addsil.py --volume 0.4 --sil 100 --in-dir ../xtts_22.05k_corrupt150k --out-dir ../xtts_22.05k_corrupt150k_vol0.4_100ms
