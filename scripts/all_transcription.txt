@@ -1,0 +1,445 @@
+p245_001.wav|Please call Stella.  
+p245_002.wav|Ask her to bring these things with her from the store.  
+p245_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p245_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p245_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p245_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p245_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p245_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p245_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p245_010.wav|People look, but no one ever finds it. 
+p245_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p245_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p245_013.wav|Some have accepted it as a miracle without physical explanation. 
+p245_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p245_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p245_016.wav|Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p245_017.wav|Others have tried to explain the phenomenon physically. 
+p245_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p245_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p245_020.wav|Many complicated ideas about the rainbow have been formed. 
+p245_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p245_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p245_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p245_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p288_001.wav|Please call Stella.  
+p288_002.wav|Ask her to bring these things with her from the store.  
+p288_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p288_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p288_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p288_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p288_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p288_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p288_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p288_010.wav|People look, but no one ever finds it. 
+p288_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p288_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p288_013.wav|Some have accepted it as a miracle without physical explanation. 
+p288_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p288_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p288_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p288_017.wav|Others have tried to explain the phenomenon physically. 
+p288_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p288_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p288_020.wav|Many complicated ideas about the rainbow have been formed. 
+p288_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p288_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p288_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p288_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p295_002.wav|Ask her to bring these things with her from the store.
+p295_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+p295_004.wav|We also need a small plastic snake and a big toy frog for the kids.
+p295_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+p295_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+p295_007.wav|The rainbow is a division of white light into many beautiful colors.
+p295_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+p295_009.wav|There is , according to legend, a boiling pot of gold at one end.
+p295_010.wav|People look, but no one ever finds it.
+p295_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+p295_012.wav|Throughout the centuries people have explained the rainbow in various ways.
+p295_013.wav|Some have accepted it as a miracle without physical explanation.
+p295_014.wav|To the Hebrews it was a token that there would be no more universal floods.
+p295_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+p295_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky.
+p295_017.wav|Others have tried to explain the phenomenon physically.
+p295_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+p295_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+p295_020.wav|Many complicated ideas about the rainbow have been formed.
+p295_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+p295_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+p340_001.wav|Please call Stella.
+p340_002.wav|Ask her to bring these things with her from the store.
+p340_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+p340_004.wav|We also need a small plastic snake and a big toy frog for the kids.
+p340_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+p340_006.wav|When the sunlight strikes the raindrops in the air, they act as a prism and form a rainbow.
+p340_007.wav|The rainbow is a division of white light into many beautiful colors.
+p340_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+p340_009.wav|There is , according to legend, a boiling pot of gold at one end.
+p340_010.wav|People look, but no one ever finds it.
+p340_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+p340_012.wav|Throughout the centuries people have explained the rainbow in various ways.
+p340_013.wav|Some have accepted it as a miracle without physical explanation.
+p340_014.wav|To the Hebrews it was a token that there would be no more universal floods.
+p340_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+p340_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+p340_017.wav|Others have tried to explain this phenomenon physically.
+p340_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+p340_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+p340_020.wav|Many complicated ideas about the rainbow have been formed.
+p340_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+p340_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+p340_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p252_001.wav|Please call Stella.  
+p252_002.wav|Ask her to bring these things with her from the store.  
+p252_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p252_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p252_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p252_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p252_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p252_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p252_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p252_010.wav|People look, but no one ever finds it. 
+p252_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p252_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p252_013.wav|Some have accepted it as a miracle without physical explanation. 
+p252_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p252_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p252_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p252_017.wav|Others have tried to explain the phenomenon physically. 
+p252_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p252_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p252_020.wav|Many complicated ideas about the rainbow have been formed. 
+p252_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored bands increases as the size of the drops increases. 
+p252_022.wav|The actual primary rainbow observed is said to be the effect of super-position of a number of bows. 
+p252_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p252_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p262_001.wav|Please call Stella.  
+p262_002.wav|Ask her to bring these things with her from the store.  
+p262_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p262_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p262_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p262_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p262_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p262_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p262_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p262_010.wav|People look, but no one ever finds it. 
+p262_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p262_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p262_013.wav|Some have accepted it as a miracle without physical explanation. 
+p262_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p262_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p262_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p262_017.wav|Others have tried to explain the phenomenon physically. 
+p262_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p262_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p262_020.wav|Many complicated ideas about the rainbow have been formed. 
+p262_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p262_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p262_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p262_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p272_002.wav|Ask her to bring these things with her from the store.  
+p272_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p272_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p272_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p272_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p272_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p272_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p272_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p272_010.wav|People look, but no one ever finds it. 
+p272_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p272_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p272_013.wav|Some have accepted it as a miracle without physical explanation. 
+p272_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p272_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p272_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p272_017.wav|Others have tried to explain the phenomenon physically. 
+p272_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p272_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p272_020.wav|Many complicated ideas about the rainbow have been formed. 
+p272_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p272_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p272_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p272_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p281_002.wav|Ask her to bring these things with her from the store.  
+p281_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p281_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p281_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p281_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p281_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p281_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p281_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p281_010.wav|People look, but no one ever finds it. 
+p281_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p281_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p281_013.wav|Some have accepted it as a miracle without physical explanation. 
+p281_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p281_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p281_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p281_017.wav|Others have tried to explain the phenomenon physically. 
+p281_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p281_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p281_020.wav|Many complicated ideas about the rainbow have been formed. 
+p281_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p281_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p281_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p281_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p285_001.wav|Please call Stella.  
+p285_002.wav|Ask her to bring these things with her from the store.  
+p285_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p285_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p285_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p285_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p285_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p285_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p285_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p285_010.wav|People look, but no one ever finds it. 
+p285_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p285_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p285_013.wav|Some have accepted it as a miracle without physical explanation. 
+p285_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p285_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p285_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p285_017.wav|Others have tried to explain the phenomenon physically. 
+p285_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p285_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p285_020.wav|Many complicated ideas about the rainbow have been formed. 
+p285_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p285_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p285_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p285_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p225_001.wav|Please call Stella.
+p225_002.wav|Ask her to bring these things with her from the store.
+p225_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+p225_004.wav|We also need a small plastic snake and a big toy frog for the kids.
+p225_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+p225_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+p225_007.wav|The rainbow is a division of white light into many beautiful colors.
+p225_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+p225_009.wav|There is , according to legend, a boiling pot of gold at one end.
+p225_010.wav|People look, but no one ever finds it.
+p225_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+p225_012.wav|Throughout the centuries people have explained the rainbow in various ways.
+p225_013.wav|Some have accepted it as a miracle without physical explanation.
+p225_014.wav|To the Hebrews it was a token that there would be no more universal floods.
+p225_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+p225_017.wav|Others have tried to explain the phenomenon physically.
+p225_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+p225_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+p225_020.wav|Many complicated ideas about the rainbow have been formed.
+p225_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+p225_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+p225_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+p225_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p226_001.wav|Please call Stella.  
+p226_002.wav|Ask her to bring these things with her from the store.  
+p226_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p226_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p226_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p226_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p226_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p226_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p226_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p226_010.wav|People look, but no one ever finds it. 
+p226_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p226_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p226_013.wav|Some have accepted it as a miracle without physical explanation. 
+p226_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p226_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p226_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p226_017.wav|Others have tried to explain the phenomenon physically. 
+p226_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p226_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p226_020.wav|Many complicated ideas about the rainbow have been formed. 
+p226_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p226_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p226_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p226_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p228_001.wav|Please call Stella.
+p228_002.wav|Ask her to bring these things with her from the store.
+p228_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+p228_004.wav|We also need a small plastic snake and a big toy frog for the kids.
+p228_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+p228_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+p228_007.wav|The rainbow is a division of white light into many beautiful colors.
+p228_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+p228_009.wav|There is , according to legend, a boiling pot of gold at one end.
+p228_010.wav|People look, but no one ever finds it.
+p228_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+p228_012.wav|Throughout the centuries people have explained the rainbow in various ways.
+p228_013.wav|Some have accepted it as a miracle without physical explanation.
+p228_014.wav|To the Hebrews it was a token that there would be no more universal floods.
+p228_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+p228_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+p228_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+p228_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+p228_020.wav|Many complicated ideas about the rainbow have been formed.
+p228_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+p228_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+p228_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+p228_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p229_001.wav|Please call Stella.  
+p229_002.wav|Ask her to bring these things with her from the store.  
+p229_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p229_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p229_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p229_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p229_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p229_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p229_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p229_010.wav|People look, but no one ever finds it. 
+p229_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p229_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p229_013.wav|Some have accepted it as a miracle without physical explanation. 
+p229_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p229_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p229_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p229_017.wav|Others have tried to explain the phenomenon physically. 
+p229_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p229_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p229_020.wav|Many complicated ideas about the rainbow have been formed. 
+p229_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p229_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p229_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p229_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p231_001.wav|Please call Stella.  
+p231_002.wav|Ask her to bring these things with her from the store.  
+p231_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p231_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p231_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p231_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p231_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p231_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p231_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p231_010.wav|People look, but no one ever finds it. 
+p231_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p231_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p231_013.wav|Some have accepted it as a miracle without physical explanation. 
+p231_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p231_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p231_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky. 
+p231_017.wav|Others have tried to explain the phenomenon physically. 
+p231_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p231_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p231_020.wav|Many complicated ideas about the rainbow have been formed. 
+p231_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p231_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p231_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p232_001.wav|Please call Stella.  
+p232_002.wav|Ask her to bring these things with her from the store.  
+p232_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p232_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p232_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p232_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p232_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p232_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p232_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p232_010.wav|People look, but no one ever finds it. 
+p232_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p232_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p232_013.wav|Some have accepted it as a miracle without physical explanation. 
+p232_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p232_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p232_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p232_017.wav|Others have tried to explain the phenomenon physically. 
+p232_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p232_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p232_020.wav|Many complicated ideas about the rainbow have been formed. 
+p232_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p232_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p232_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p232_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p240_001.wav|Please call Stella.  
+p240_002.wav|Ask her to bring these things with her from the store.  
+p240_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p240_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p240_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p240_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p240_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p240_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p240_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p240_010.wav|People look, but no one ever finds it. 
+p240_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p240_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p240_013.wav|Some have accepted it as a miracle without physical explanation. 
+p240_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p240_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p240_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p240_017.wav|Others have tried to explain the phenomenon physically. 
+p240_018.wav|Aristotle thought the rainbow was caused by reflection of the sun's rays by the rain. 
+p240_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p240_020.wav|Many complicated ideas about the rainbow have been formed. 
+p240_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p240_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p240_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p240_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p257_001.wav|Please call Stella.  
+p257_002.wav|Ask her to bring these things with her from the store.  
+p257_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p257_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p257_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p257_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p257_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p257_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p257_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p257_010.wav|People look, but no one ever finds it. 
+p257_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p257_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p257_013.wav|Some have accepted it as a miracle without physical explanation. 
+p257_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p257_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p257_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p257_017.wav|Others have tried to explain the phenomenon physically. 
+p257_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p257_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p257_020.wav|Many complicated ideas about the rainbow have been formed. 
+p257_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p257_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p257_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p257_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p258_001.wav|Please call Stella.  
+p258_002.wav|Ask her to bring these things with her from the store.  
+p258_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p258_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p258_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p258_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p258_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p258_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p258_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p258_010.wav|People look, but no one ever finds it. 
+p258_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p258_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p258_013.wav|Some have accepted it as a miracle without physical explanation. 
+p258_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p258_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p258_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p258_017.wav|Others have tried to explain the phenomenon physically. 
+p258_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p258_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p258_020.wav|Many complicated ideas about the rainbow have been formed. 
+p258_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p258_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p258_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p258_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p268_001.wav|Please call Stella.  
+p268_002.wav|Ask her to bring these things with her from the store.  
+p268_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p268_004.wav|We also need a small plastic snake and a big toy frog for the kids.  
+p268_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p268_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p268_007.wav|The rainbow is a division of white light into many beautiful colors. 
+p268_009.wav|There is , according to legend, a boiling pot of gold at one end. 
+p268_010.wav|People look, but no one ever finds it. 
+p268_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p268_012.wav|Throughout the centuries people have explained the rainbow in various ways. 
+p268_013.wav|Some have accepted it as a miracle without physical explanation. 
+p268_014.wav|To the Hebrews it was a token that there would be no more universal floods. 
+p268_015.wav|The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p268_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p268_017.wav|Others have tried to explain the phenomenon physically. 
+p268_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p268_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p268_020.wav|Many complicated ideas about the rainbow have been formed. 
+p268_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p268_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p268_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
