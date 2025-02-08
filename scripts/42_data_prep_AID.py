@@ -1,4 +1,6 @@
 import os
+import torchaudio
+from tqdm import tqdm
 
 # all accents
 ACCENTS = {
@@ -22,8 +24,8 @@ OUT_FILE = 'all_file_paths.csv'
 
 
 ID = 0
-all_entries = []
-for system, dir_path in DIR_PATHS.items():
+all_entries = ["ID,utt_id,wav,wav_format,text,duration,speaker,gender,accent"]
+for system, dir_path in tqdm(DIR_PATHS.items()):
     for root, dirs, files in sorted(os.walk(dir_path)):
         for file in sorted(files):
             if file.endswith(".wav"):
@@ -31,8 +33,11 @@ for system, dir_path in DIR_PATHS.items():
                 spk = file.split("_")[0]
                 acc = root.split("/")[-2]
                 full_path = os.path.join(root, file)
+                info = torchaudio.info(full_path)
+                dur = info.num_frames / info.sample_rate
+                full_path = full_path.replace("../", "data_root/")
                 # ID,utt_id,wav,wav_format,text,duration,speaker,gender,accent
-                entry = ",".join([str(ID), utt_id, full_path, "wav", "", "", spk, "", ACCENTS[acc]])
+                entry = ",".join([str(ID), utt_id, full_path, "wav", "", str(dur), spk, "", ACCENTS[acc]])
                 all_entries.append(entry)
                 ID += 1
 
