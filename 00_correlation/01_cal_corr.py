@@ -5,19 +5,6 @@ import seaborn as sns
 
 ACC = "Edinburgh"
 
-# METRIC2PATH = {
-#     "Cosine DTW-aligned PPG Pronunciation Distance": f"../03_aid_sim/analysis/stats_{ACC}_aid_cosine.csv",
-#     "Jensen-Shannon DTW-aligned PPG Pronunciation Distance": f"../03_aid_sim/analysis/stats_{ACC}_aid_cosine.csv",
-#     "GenAID Accent Cosine Distance": f"../03_aid_sim/analysis/stats_{ACC}_aid_cosine.csv",
-#     "WavLM Speaker Cosine Similarity": f"../01_std_metric/analysis/stats_{ACC}_similarity.csv",
-#     "whisper-large-v3 WER": f"../01_std_metric/analysis/stats_{ACC}_wer.csv",
-#     "whisper-large-v3 CER": f"../01_std_metric/analysis/stats_{ACC}_cer.csv",
-#     "MCD": f"../01_std_metric/analysis/stats_{ACC}_mcd.csv",
-#     "F0 RMSE": f"../01_std_metric/analysis/stats_{ACC}_f0rmse.csv",
-#     "F0 Periodicity RMSE": f"../01_std_metric/analysis/stats_{ACC}_f0_periodicity_rmse.csv",
-#     "FPC": f"../01_std_metric/analysis/stats_{ACC}_fpc.csv",
-#     "Voiced/Unvoiced Classification F1-Score": f"../01_std_metric/analysis/stats_{ACC}_v_uv_f1.csv",
-# }
 METRIC2PATH = {
     "PPG (cosine)": f"../02_ppg_dist/analysis/stats_{ACC}_cosine.csv",
     "PPG (Jensen-Shannon)": f"../02_ppg_dist/analysis/stats_{ACC}_jensenshannon.csv",
@@ -28,7 +15,7 @@ METRIC2PATH = {
     "MCD": f"../01_std_metric/analysis/stats_{ACC}_mcd.csv",
     "F0 (RMSE)": f"../01_std_metric/analysis/stats_{ACC}_f0rmse.csv",
     "F0 (Period. RMSE)": f"../01_std_metric/analysis/stats_{ACC}_f0_periodicity_rmse.csv",
-    "FO (Pearson Coeff.)": f"../01_std_metric/analysis/stats_{ACC}_fpc.csv",
+    "F0 (Pearson Coeff.)": f"../01_std_metric/analysis/stats_{ACC}_fpc.csv",
     "Voiced/Unvoiced F1": f"../01_std_metric/analysis/stats_{ACC}_v_uv_f1.csv",
 }
 SYSTEMS = ["copysyn", "xtts", "xtts10k", "xtts20k", "xtts30k", "xtts40k", "xtts50k", "xtts60k", "xtts70k", "xtts80k", "xtts90k", "xtts100k", "xtts110k", "xtts120k", "xtts130k", "xtts140k", "xtts150k"]
@@ -50,7 +37,7 @@ for metric_name, path in METRIC2PATH.items():
 metrics = pd.DataFrame.from_dict(metrics, orient="index", columns=SYSTEMS).T
 
 correlation_matrix = metrics.corr("spearman")
-plt.figure(figsize=(20, 15))
-sns.heatmap(np.abs(correlation_matrix), annot=True, fmt='g')
+plt.figure(figsize=(15, 10))
+sns.heatmap(np.round(np.abs(correlation_matrix), decimals=3), annot=True, fmt='.3g')
 plt.xticks(rotation=20)
 plt.savefig("./heatmap_corr.pdf")
