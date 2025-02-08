@@ -2,17 +2,21 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# MODE = "edi_cos"
+# MODE = "Edinburgh_cosine"
 # TITLE = "Edinburgh Cosine Similarity Experiments, Each with 5 Speakers & 23 Utterances"
+# YLABEL = "Cosine Similarity Distance"
 
-# MODE = "edi_ppg"
+# MODE = "Edinburgh_jensenshannon"
 # TITLE = "Edinburgh PPG DTW-JS Experiments, Each with 5 Speakers & 23 Utterances"
+# YLABEL = "PPG DTW-JS Pronunciation Distance"
 
-MODE = "sou_cos"
-TITLE = "SouthernEngland Cosine Similarity Experiments, Each with 10 Speakers & 23 Utterances"
+# MODE = "SouthernEngland_cosine"
+# TITLE = "SouthernEngland Cosine Similarity Experiments, Each with 10 Speakers & 23 Utterances"
+# YLABEL = "Cosine Similarity Distance"
 
-# MODE = "sou_ppg"
-# TITLE = "SouthernEngland PPG DTW-JS Experiments, Each with 10 Speakers & 23 Utterances"
+MODE = "SouthernEngland_jensenshannon"
+TITLE = "SouthernEngland PPG DTW-JS Experiments, Each with 10 Speakers & 23 Utterances"
+YLABEL = "PPG DTW-JS Pronunciation Distance"
 
 stats = pd.read_csv(f"./analysis/stats_{MODE}.csv", delimiter=",")
 
@@ -27,7 +31,7 @@ plt.errorbar(exp_names, means, yerr=np.array(standard_errors)*1.96, fmt='o', cap
 
 plt.title(TITLE)
 plt.xlabel('Evaluated System')
-plt.ylabel('PPG DTW-JS Pronunciation Distance')
+plt.ylabel(YLABEL)
 plt.xticks(exp_names)
 plt.grid(True)
 plt.legend()
