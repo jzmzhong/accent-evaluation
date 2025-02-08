@@ -14,7 +14,7 @@ TITLE = "SouthernEngland Cosine Similarity Experiments, Each with 10 Speakers & 
 # MODE = "sou_ppg"
 # TITLE = "SouthernEngland PPG DTW-JS Experiments, Each with 10 Speakers & 23 Utterances"
 
-stats = pd.read_csv(f"stats_{MODE}.csv", delimiter=",")
+stats = pd.read_csv(f"./analysis/stats_{MODE}.csv", delimiter=",")
 
 exp_names = stats["system"].to_list()
 means = stats["mean"].to_list()
@@ -31,6 +31,6 @@ plt.ylabel('PPG DTW-JS Pronunciation Distance')
 plt.xticks(exp_names)
 plt.grid(True)
 plt.legend()
-plt.savefig(f"error_bar_{MODE}.png")
+plt.savefig(f"./analysis/error_bar_{MODE}.png")
 # plt.show()
 plt.clf()
