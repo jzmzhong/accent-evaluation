@@ -13,8 +13,17 @@ ACCS = {
 }
 SYSTEMS = ["copysyn", "xtts", "xtts10k", "xtts20k", "xtts30k", "xtts40k", "xtts50k", "xtts60k", "xtts70k", "xtts80k", "xtts90k", "xtts100k", "xtts110k", "xtts120k", "xtts130k", "xtts140k", "xtts150k"]
 
-IN_PATH = "./all/accents_v2.5.0.pth"
-OUT_FOLDER = "./analysis"
+# IN_PATH = "./all/accents_v2.5.0.pth"
+# IN_PATH = "./all/accents_opensource.pth"
+# IN_PATH = "./all/accents_v2.5.0_beforeBN.pth"
+IN_PATH = "./all/accents_v2.5.0_beforeDNNBN.pth"
+
+# OUT_FOLDER = "./analysis"
+# OUT_FOLDER = "./analysis_opensource"
+# OUT_FOLDER = "./analysis_beforeBN"
+OUT_FOLDER = "./analysis_beforeDNNBN"
+
+os.makedirs(OUT_FOLDER, exist_ok=True)
 
 with fsspec.open(IN_PATH, "rb") as f:
     accent_mapping = torch.load(f)

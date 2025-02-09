@@ -5,13 +5,19 @@ import pandas as pd
 # ACC = "Edinburgh"
 # ACC = "SouthernEngland"
 ACC = "Dublin"
+
+# DIR = "./analysis"
+# DIR = "./analysis_opensource"
+# DIR = "./analysis_beforeBN"
+DIR = "./analysis_beforeDNNBN"
+
 MODE= "aid_cosine"
 
 TITLE = ACC + " " + MODE + " Experiments, Each with 5 Speakers & 23 Utterances"
 YLABEL = MODE
 MODE = ACC + "_" + MODE
 
-stats = pd.read_csv(f"./analysis/stats_{MODE}.csv", delimiter=",")
+stats = pd.read_csv(f"{DIR}/stats_{MODE}.csv", delimiter=",")
 
 exp_names = stats["system"].to_list()
 means = stats["mean"].to_list()
@@ -28,6 +34,6 @@ plt.ylabel(YLABEL)
 plt.xticks(exp_names)
 plt.grid(True)
 plt.legend()
-plt.savefig(f"./analysis/error_bar_{MODE}.png")
+plt.savefig(f"{DIR}/error_bar_{MODE}.png")
 # plt.show()
 plt.clf()

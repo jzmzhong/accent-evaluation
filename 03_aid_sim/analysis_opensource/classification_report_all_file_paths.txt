@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+     african       0.00      0.00      0.00         0
+   australia       0.00      0.00      0.00         0
+      canada       0.00      0.00      0.00         0
+     english       0.71      0.03      0.06      4050
+       irish       0.00      0.00      0.00      1266
+  newzealand       0.00      0.00      0.00         0
+    scottish       0.76      0.08      0.14      2034
+          us       0.00      0.00      0.00         0
+       wales       0.00      0.00      0.00         0
+
+    accuracy                           0.04      7350
+   macro avg       0.16      0.01      0.02      7350
+weighted avg       0.60      0.04      0.07      7350
